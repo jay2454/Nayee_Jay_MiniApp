@@ -1,4 +1,4 @@
-![It is MINI!](images/mini_logo.jpeg "The logo")
+![It is MINI!](images/mini_logo.jpg "The logo")
 # Mini App!
 
 In this project I am building an app that showcase 3 most popular Mini cooper Models. MINI is one of the most popualr car manufactures in the world and their Mini Cooper series is the most popular line of cars in their company.
